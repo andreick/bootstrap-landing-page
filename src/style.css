@@ -12,3 +12,18 @@
     font-family: 'Pacifico', cursive;
     color: darkred;
 }
+
+.card-receita {
+    width: 18rem;
+    border-color: darkred;
+}
+
+.card-receita-imagem {
+    object-fit: cover;
+    height: 200px;
+}
+
+.card-receita-botao {
+    background-color: darkred;
+    color: white;
+}
